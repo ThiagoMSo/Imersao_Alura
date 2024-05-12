@@ -31,8 +31,9 @@ Versão 0.9
 
 Mencione todos aqueles que ajudaram a levantar o projeto desde o seu início
 
-* **Colaborador** - [Thiago Soares](https://github.com/ThiagoMSo)
-
+* **Colaborador** -
+* [Thiago Soares](https://github.com/ThiagoMSo)
+* **[Linkedin](https://www.linkedin.com/in/thiago-soares-41b7448b/)** 
 
 ## 📄 Licença
 
