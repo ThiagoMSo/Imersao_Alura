@@ -8,13 +8,13 @@ Essas instruções permitirão que você obtenha uma cópia do projeto em opera�
 
 ### 🔧 Instalação
 
--Abrir arquivo Assistente-Virtual-para-Área-de-Lazer.ipynb
--Entrar via Google Colab
--Para rodar o Projeto é necessario ter acesso a uma [Google_Api_Key](https://aistudio.google.com/app/apikey?utm_source=website&utm_medium=referral&utm_campaign=Alura&utm_content=)
--Substituir a chave de acesso logo abaixo dos imports:
--"GOOGLE_API_KEY="GOOGLE_API_KEY""
--Pronto
--Somente inicializar o projeto que ele já irá rodar
+* Abrir arquivo Assistente-Virtual-para-Área-de-Lazer.ipynb
+* Entrar via Google Colab
+* Para rodar o Projeto é necessario ter acesso a uma [Google_Api_Key](https://aistudio.google.com/app/apikey?utm_source=website&utm_medium=referral&utm_campaign=Alura&utm_content=)
+* Substituir a chave de acesso logo abaixo dos imports:
+* "GOOGLE_API_KEY="GOOGLE_API_KEY""
+* Pronto
+* Somente inicializar o projeto que ele já irá rodar
 
 ## 🛠️ Construído com
 
