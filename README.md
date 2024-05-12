@@ -22,7 +22,7 @@ Mencione as ferramentas que você usou para criar seu projeto
 
 - [Google Colab](https://colab.research.google.com/) - Utilizado para escrever e rodar o projeto
 - [Python](https://nodejs.org/en/](https://www.python.org ) - Linguagem de programação usada
-- 
+
 ## 📌 Versão
 
 Versão 0.9
